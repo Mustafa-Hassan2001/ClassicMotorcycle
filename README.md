@@ -1,4 +1,4 @@
-<div align="center
+<div align="center">
 
   <h2 align="center">ClassicMotorcycle - Motorcycle Enthusiast Website</h2>
 
